@@ -5,12 +5,12 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : mione
   description                  : >
-                               this should contain a proper description
+                               vanity project so I could have the email andrew@mione, but couldn't get the dot com
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/pill_solo.svg" # path to logo file
   search_path                : # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
@@ -26,13 +26,13 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : Andrew Mione
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
+  mail                      : andrew@mione.org # change to your e-mail address
+  twitter                   : Andrew_Mione
+  github                    : amione
+  youtube                   : channel/UCLhKKIyhTLAxQY7STuVuueA
+  stackoverflow             : users/4651095/andrew-mione
   disqus                    : # your_disqus_forum_shortname
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
