@@ -4,6 +4,7 @@ title:  "Des Moines' downtown only has one."
 tags:
   - travel
   - funny
+  - signs
 hero: ../uploads/SNC00022.jpg
 overlay: orange
 published: true

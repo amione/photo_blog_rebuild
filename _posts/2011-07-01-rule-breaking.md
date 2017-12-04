@@ -11,4 +11,4 @@ published: true
 
 Woops, I forgot to turn off my cell phone.
 
-[![blizzard](../uploads/SNC00233.jpg){:.lead}](../uploads/SNC00233.jpg)
+[![airplane mode](../uploads/SNC00233.jpg){:.lead}](../uploads/SNC00233.jpg)

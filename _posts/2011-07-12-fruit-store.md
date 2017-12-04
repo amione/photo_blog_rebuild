@@ -13,4 +13,4 @@ published: true
 
 Best fruit store in Brooklyn.
 
-[![blizzard](../uploads/SNC00219.jpg){:.lead}](../uploads/SNC00219.jpg)
+[![3 guys](../uploads/SNC00219.jpg){:.lead}](../uploads/SNC00219.jpg)

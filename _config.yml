@@ -7,7 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : mione
   description                  : >
-                               vanity project so I could have the email andrew@mione, but couldn't get the dot com
+                               vanity project so I could have the email andrew@mione, but I couldn't get the .com
 
 # Layout configuration
   logo_path                  : "assets/img/pill_solo.svg" # path to logo file
