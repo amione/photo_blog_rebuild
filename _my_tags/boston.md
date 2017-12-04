@@ -1,6 +1,6 @@
 ---
 slug: boston
-name: boston
+name: Boston
 description: >
   The Bean.
 ---
