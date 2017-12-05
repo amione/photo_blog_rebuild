@@ -15,13 +15,13 @@
   list-style: none;
   font-weight: normal;
   a {
-    color: var(--text-color);
+    color: #c4c4c4;
   }
   li {
     margin-top: 1rem;
     small {
       font-size: .75em;
-      color: var(--text-color-light);
+      color: #777;
     }
   }
   li+li {
@@ -40,7 +40,7 @@
   }
   ul {
     text-align: center;
-    color: var(--text-color-light);
+    color: #777;
     list-style-type: none;
     margin: .5em 0 1.5em 0;
     padding: 0px;
@@ -90,9 +90,9 @@
 	}
 	input[type=search] {
     width: 50%;
-		color: var(--text-color-light);
-    background: var(--code-bg-color);
-		box-shadow: 0 1px 2px var(--shadow-color);
+		color: #777;
+    background: #252525;
+		box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
 		padding: 9px 10px 9px 38px;
 		font-size: $base-font-size;
 		-webkit-transition: all .5s;
@@ -101,17 +101,17 @@
     opacity: .5;
 	}
 	input[type=search]:focus {
-		color: var(--text-color);
-    background: var(--code-bg-color);
-    box-shadow: 0 1px 2px var(--shadow-color);
+		color: #c4c4c4;
+    background: #252525;
+    box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
     width: 70%;
     opacity: 1;
 	}
 	input:-moz-placeholder {
-		color: var(--text-color-light);
+		color: #777;
 	}
 	input::-webkit-input-placeholder {
-		color: var(--text-color-light);
+		color: #777;
 	}
   @media (max-width: 48rem) {
     input[type=search] {
@@ -145,7 +145,7 @@
 
   a {
     font-size: $lead-font-size;
-    color: var(--link-color);
+    color: #f1f1f1;;
     @include border-slide(left);
   }
 
@@ -156,9 +156,9 @@
     height: 125px;
     content: '';
     display: block;
-    background: -moz-linear-gradient(bottom, var(--bg-color) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(bottom, var(--bg-color) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to top, var(--bg-color) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: -moz-linear-gradient(bottom, #1c1c1c 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(bottom, #1c1c1c 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to top, #1c1c1c 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     z-index: 10 // it needs to cover everything, footnote buttons included
     }
 }

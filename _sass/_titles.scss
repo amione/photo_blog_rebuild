@@ -33,7 +33,7 @@
 .post-meta {
   font-weight: $base-font-weight;
   font-size: 22px;
-  color: var(--text-color-light);
+  color: #777;
 
   span {
     display: inline-block;
@@ -41,7 +41,7 @@
     font-size: 0.85em;
 
     a {
-      color: var(--text-color-light);
+      color: #777;
       text-transform: lowercase;
       margin: .2em .25em;
     }
@@ -78,12 +78,12 @@
 
 .post-meta-nohero {
   margin-top: 0.5rem;
-  color: var(--text-color-light);
+  color: #777;
   font-weight: $base-font-weight;
   font-size: 0.75em;
 
   a {
-    color: var(--text-color-light);
+    color: #777;
     margin: 0 .25em;
     text-transform: lowercase;
     }

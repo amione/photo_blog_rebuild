@@ -3,8 +3,8 @@
 
 table {
   font-size: 0.85em;
-  background-color: var(--code-bg-color);
-  box-shadow: 0 1px 2px var(--shadow-color);
+  background-color: #252525;
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
   margin-bottom: 1.5rem;
   width: 100%;
   border-collapse: collapse;
@@ -12,8 +12,8 @@ table {
 
 thead {
   text-align: left;
-  background-color: var(--code-border);
-  border-bottom: 1px solid var(--table-border-color);
+  background-color: #222;
+  border-bottom: 1px solid #292929;
 }
 
 td,
@@ -23,11 +23,11 @@ th {
 
 // No external borders
 table th:not(:first-child) {
-  border-left: 1px solid var(--table-border-color);
+  border-left: 1px solid #292929;
 }
 table td:not(:first-child) {
-  border-left: 1px solid var(--table-border-color);
+  border-left: 1px solid #292929;
 }
 table tr:not(:first-child) td {
-  border-top: 1px solid var(--table-border-color);
+  border-top: 1px solid #292929;
 }

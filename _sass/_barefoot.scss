@@ -13,8 +13,8 @@
 
 .footnote-button {
   // background: rgba(110, 110, 110, .2);
-  background: var(--code-bg-color);
-  box-shadow: 0 1px 1px var(--shadow-color);
+  background: #252525;
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
   border: 0;
   border-radius: .475em;
   cursor: pointer;
@@ -39,7 +39,7 @@
     /* numbered footnotes
     content: attr(data-fn-number); */
     // color: rgba(110, 110, 110, .5);
-    color: var(--text-color-light);
+    color: #777;
     display: block;
     font-size: 1em;
     font-weight: bold;
@@ -56,10 +56,10 @@
   }
   &:hover {
     // background: rgba(110, 110, 110, .5);
-    background: var(--table-header-color);
+    background: #505050;
     outline: none;
     &:after {
-      color: var(--text-color);
+      color: #c4c4c4;
 
       outline: none;
 		}
@@ -67,18 +67,18 @@
 
   &.is-active {
     // background: rgba(110, 110, 110, 1);
-    background: var(--table-border-color);
+    background: #292929;
     transition-delay: .1s;
     &:after {
-      color: var(--text-color);
+      color: #c4c4c4;
 		}
 	}
 }
 
 .bf-footnote {
-  background: var(--code-bg-color);
-  // border: 1px solid var(--code-border);
-  box-shadow: 0 1px 2px var(--shadow-color);
+  background: #252525;
+  // border: 1px solid #222;
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
   /*  border-radius: .25em; */
   left: 0;
   margin: $magic 0;
@@ -119,8 +119,8 @@
 
 .footnote-tooltip {
   background: inherit;
-  box-shadow: 0 1px 2px var(--shadow-color);
-  // border: 1px solid var(--code-border);
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
+  // border: 1px solid #222;
   height: 1.3em;
   position: absolute;
   top: -.49em;

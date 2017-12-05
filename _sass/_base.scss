@@ -7,15 +7,15 @@
   box-sizing: border-box;
 }
 ::selection {
-  color: var(--bg-color);
-  background-color: var(--text-color);
+  color: #1c1c1c;
+  background-color: #c4c4c4;
 }
 
 body {
     font-size: $base-font-size;
     line-height: $base-line-height;
-    color: var(--text-color);
-    background-color: var(--bg-color);
+    color: #c4c4c4;
+    background-color: #1c1c1c;
 }
 
 .page {
@@ -41,7 +41,7 @@ body {
 //-------------------------------
 
 a, .a {
-  color: var(--link-color);
+  color: #f1f1f1;
   text-decoration: none;
   position: relative;
   border-bottom: 0.18rem solid transparent;
@@ -63,7 +63,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: .5rem;
   font-weight: $base-font-weight-bold;
   line-height: 1.1;
-  color: var(--text-color);
+  color: #c4c4c4;
   text-rendering: optimizeLegibility;
 }
 
@@ -88,7 +88,7 @@ h4, h5, h6 {
 
 b,
 strong {
-  color: var(--text-color);
+  color: #c4c4c4;
 }
 
 dt {
@@ -102,17 +102,17 @@ dd {
 abbr {
   font-size: 85%;
   font-weight: $base-font-weight-bold;
-  color: var(--text-color);
+  color: #c4c4c4;
   text-transform: uppercase;
 
   &[title] {
     cursor: help;
-    border-bottom: 1px dotted var(--text-color-light);
+    border-bottom: 1px dotted #777;
   }
 }
 
 strong {
-    color: var(--text-color);
+    color: #c4c4c4;
 }
 
 // Lists, blockquotes
@@ -129,7 +129,7 @@ ul, ol, dl {
 hr {
   margin-bottom: 4em;
   max-width: 30%;
-  border: 0.1em solid var(--shadow-color);
+  border: 0.1em solid rgba(255, 255, 255, 0.1);
 }
 
 img {

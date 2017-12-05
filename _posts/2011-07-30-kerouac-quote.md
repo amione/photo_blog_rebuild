@@ -6,7 +6,7 @@ tags:
   - advertising
   - vandalism
 hero: ../uploads/SNC00352.jpg
-overlay: green
+overlay: orange
 published: true
 
 ---

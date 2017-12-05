@@ -7,7 +7,7 @@
   overflow: hidden;
   max-width: 30%;
   margin: 0 auto 4rem auto;
-  color: var(--text-color-light);
+  color: #777;
 
   > ul {
     overflow: hidden;
@@ -31,7 +31,7 @@
       margin-bottom: 0;
       float: left;
       a {
-        color: var(--link-color);
+        color: #f1f1f1;
         @include border-slide(right);
       }
     }
@@ -40,7 +40,7 @@
       text-align: right;
       float: right;
       a {
-        color: var(--link-color);
+        color: #f1f1f1;
         @include border-slide(left);
       }
     }

@@ -14,13 +14,13 @@ code {
   font-size: .85em;
   // Could be mistaken for a link if the user choses a similar link-color, so better no colored inline code.
   // color: $code-color;
-  background-color: var(--code-bg-color);
+  background-color: #252525;
   // No border radius to prevent repaint on code scroll
   // border-radius: 3px;
 }
 
 code.highlighter-rouge {
-  box-shadow: 0 1px 1px var(--shadow-color);
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
 }
 
 pre code {
@@ -36,7 +36,7 @@ figure, .figure {
 
   > *:first-child {
     padding: 1rem;
-    background: var(--code-bg-color);
+    background: #252525;
   }
 
   > figcaption, > .figcaption {
@@ -63,7 +63,7 @@ figure, .figure {
   @include figure2();
 
   backface-visibility: hidden;
-  box-shadow: 0 1px 2px var(--shadow-color);
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
   position: relative;
   
   &:before {
@@ -71,13 +71,13 @@ figure, .figure {
         top: 0;
         right: 0;
         padding: 0.5em;
-        background-color: var(--code-border);
+        background-color: #222;
         content: "\e86f";
         font-family: "icomoon" !important;
         line-height: 1;
         text-transform: none;
         speak: none;
-        box-shadow: 0 1px 2px var(--shadow-color);
+        box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
       }
 
   pre {
@@ -90,7 +90,7 @@ figure, .figure {
   .lineno {
     display: inline-block; // Ensures the null space also isn't selectable
     padding-right: .25rem;
-    color: var(--metadata-color);
+    color: #666;
     // Make sure numbers aren't selectable
     -webkit-user-select: none;
        -moz-user-select: none;
@@ -114,8 +114,8 @@ figure, .figure {
     }
 
     td.gutter {
-      background: var(--code-border);
-      box-shadow: 0 1px 2px var(--shadow-color);
+      background: #222;
+      box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
       width: 6%;
     }
 

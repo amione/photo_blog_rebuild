@@ -5,9 +5,9 @@
 
 @mixin notice($notice_bg, $notice-border-color, $notice-icon, $notice-icon-color) {
   padding: 1rem 1rem 1rem 5rem;
-  background-color: var(--code-bg-color);
+  background-color: #1c1c1c;
   font-size: 0.85em;
-  box-shadow: 0 1px 2px var(--shadow-color);
+  box-shadow: 0 1px 2px rgba(255, 255, 255, 0.1);
   position: relative;
 
   &:before {
