@@ -11,7 +11,7 @@ published: true
 
 ---
 
-Banksy stencil on the back of Kaze Shabu Shabu in Boston's China Town. Originally this was one of several posts over the course of 2011, but since I'm redoing all this, I might as well combine them all here. 
+Banksy stencil on the back of Kaze Shabu Shabu in Boston's Chinatown. Originally this was one of several posts over the course of 2011, but since I'm redoing all this, I might as well combine them all here. 
 
 [![Banksy](../uploads/SNC00448.jpg){:.lead}](../uploads/SNC00448.jpg)
 

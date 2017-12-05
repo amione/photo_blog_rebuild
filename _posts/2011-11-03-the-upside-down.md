@@ -7,6 +7,7 @@ tags:
   - signs
   - funny
   - vandalism
+  - advertising
 hero: ../uploads/SNC00086.jpg
 overlay: green
 published: true
