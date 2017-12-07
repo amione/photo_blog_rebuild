@@ -20,6 +20,6 @@ published: true
 
 ## What is this?
 
-This is just a site I use to post photos and test things. It also lets me have the andrew@mione.org email address, which is useful. If someone wants to sell me mione.com, contact me.
+This is just a site I use to post photos and test things. It also lets me have the andrew@mione dot org email address, which is useful. If someone wants to sell me mione.com, contact me.
 
 </div>
