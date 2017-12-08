@@ -68,42 +68,42 @@ const updateTheme = (theme) => {
   saveTheme(theme)
 }
 
-const checkForSavedTheme = () => {
-  const theme = loadSavedTheme()
-  if (theme) updateTheme(theme)
-}
+// const checkForSavedTheme = () => {
+//   const theme = loadSavedTheme()
+//   if (theme) updateTheme(theme)
+// }
 
-const switchTheme = () => {
-  const el = document.getElementById('theme-switcher')
-  // Check if we have a saved theme
-  const theme = loadSavedTheme()
-  const currentTheme = localStorage['currentTheme']
-  if (theme && currentTheme === NightTheme.themeName) {
-    updateTheme(LightTheme)
-    el.className = iconForTheme(LightTheme.themeName)
-  } else {
-    updateTheme(NightTheme)
-    el.className = iconForTheme(NightTheme.themeName)
-  }
-}
+// const switchTheme = () => {
+//   const el = document.getElementById('theme-switcher')
+//   // Check if we have a saved theme
+//   const theme = loadSavedTheme()
+//   const currentTheme = localStorage['currentTheme']
+//   if (theme && currentTheme === NightTheme.themeName) {
+//     updateTheme(LightTheme)
+//     el.className = iconForTheme(LightTheme.themeName)
+//   } else {
+//     updateTheme(NightTheme)
+//     el.className = iconForTheme(NightTheme.themeName)
+//   }
+// }
 
-const iconForTheme = (themeName) => {
-  if (themeName === NightTheme.themeName) {
-    return 'icon-invert_colors'
-  } else {
-    return 'icon-invert_colors2'
-  }
-}
+// const iconForTheme = (themeName) => {
+//   if (themeName === NightTheme.themeName) {
+//     return 'icon-invert_colors'
+//   } else {
+//     return 'icon-invert_colors2'
+//   }
+// }
 
 // initiate
 
-checkForSavedTheme();
+// checkForSavedTheme();
 
-const el = document.getElementById('theme-switcher');
+// const el = document.getElementById('theme-switcher');
 
-if (window.localStorage && localStorage['currentTheme']) {
-  var iconClasses = iconForTheme(localStorage['currentTheme']);
-  el.className = iconClasses;
-} else {
-  el.className = iconForTheme();
-}
+// if (window.localStorage && localStorage['currentTheme']) {
+//   var iconClasses = iconForTheme(localStorage['currentTheme']);
+//   el.className = iconClasses;
+// } else {
+//   el.className = iconForTheme();
+// }
