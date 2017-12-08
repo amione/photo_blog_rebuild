@@ -5,6 +5,7 @@ tags:
   - florida
   - travel
   - weather
+  - ocean
 hero: ../uploads/IMAG0842.jpg
 overlay: green
 published: true
@@ -18,4 +19,3 @@ In Boca Raton (Rat's Mouth, Florida) for work. Beautiful, but the sun didn't wan
 [![stormy weather](../uploads/IMAG0842.jpg){:.lead}](../uploads/IMAG0842.jpg)
 [![the other side](../uploads/IMAG0844.jpg){:.lead}](../uploads/IMAG0844.jpg)
 [![another view](../uploads/IMAG0848.jpg){:.lead}](../uploads/IMAG0848.jpg)
-
