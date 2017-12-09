@@ -5,7 +5,7 @@ tags:
   - boston
   - food
 hero: ../uploads/IMAG1008.jpg
-overlay: purple
+overlay: blue
 published: true
 
 ---

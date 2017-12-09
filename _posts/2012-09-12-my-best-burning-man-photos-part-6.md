@@ -6,7 +6,7 @@ tags:
   - nevada
   - blackrockcity
 hero: ../uploads/P8291410.jpg
-overlay: green
+overlay: orange
 published: true
 
 ---

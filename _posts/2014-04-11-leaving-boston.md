@@ -5,7 +5,7 @@ tags:
   - boston
   - weather
 hero: ../uploads/IMAG1169.jpg
-overlay: blue
+overlay: purple
 published: true
 
 ---

@@ -7,7 +7,7 @@ tags:
   - signs
   - brooklyn
 hero: ../uploads/SNC00133.jpg
-overlay: red
+overlay: purple
 published: true
 
 ---

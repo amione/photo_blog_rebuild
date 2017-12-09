@@ -5,7 +5,7 @@ tags:
   - boston
   - weather
 hero: ../uploads/SNC00760.jpg
-overlay: orange
+overlay: blue
 published: true
 
 ---

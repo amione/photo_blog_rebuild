@@ -4,7 +4,7 @@ title:  "Male/Female"
 tags:
   - travel
 hero: ../uploads/SNC00037.jpg
-overlay: green
+overlay: blue
 published: true
 
 ---

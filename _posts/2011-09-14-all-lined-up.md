@@ -4,7 +4,7 @@ title:  "Boylston buildings all lined up"
 tags:
   - boston
 hero: ../uploads/SNC00328.jpg
-overlay: blue
+overlay: orange
 published: true
 
 ---

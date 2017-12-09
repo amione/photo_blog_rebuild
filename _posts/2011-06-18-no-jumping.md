@@ -6,7 +6,7 @@ tags:
   - newjersey
   - psa
 hero: ../uploads/SNC00258_0.jpg
-overlay: red
+overlay: purple
 published: true
 
 ---

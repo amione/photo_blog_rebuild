@@ -5,7 +5,7 @@ tags:
   - albuquerque
   - travel
 hero: ../uploads/IMAG1033.jpg
-overlay: purple
+overlay: green
 published: true
 
 ---

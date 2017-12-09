@@ -5,7 +5,7 @@ tags:
   - boston
   - newcamera
 hero: ../uploads/P8130109.JPG
-overlay: blue
+overlay: purple
 published: true
 
 ---
