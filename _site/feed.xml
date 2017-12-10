@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mione</title>
+    <description>vanity project so I could have the email andrew@mione, but I couldn't get the .com
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 10 Dec 2017 16:19:15 -0500</pubDate>
+    <lastBuildDate>Sun, 10 Dec 2017 16:19:15 -0500</lastBuildDate>
+    <generator>Jekyll v3.6.0</generator>
+    
+      <item>
+        <title>San Antonio, Texas - Trump reactions</title>
+        <description>&lt;p&gt;At a bar two blocks from the Alamo.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/20160504_174305_rotate.jpg&quot;&gt;&lt;img src=&quot;../uploads/20160504_174305_rotate.jpg&quot; alt=&quot;Texans don't pull any punches&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/20160505_111034_rotate.jpg&quot;&gt;&lt;img src=&quot;../uploads/20160505_111034_rotate.jpg&quot; alt=&quot;Always threatening&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 May 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/texas-trump-reaction</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/texas-trump-reaction</guid>
+        
+        <category>sanantonio</category>
+        
+        <category>texas</category>
+        
+        <category>funny</category>
+        
+        <category>signs</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Double Rainbow</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../uploads/IMAG2216.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2216.jpg&quot; alt=&quot;dubs&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2200.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2200.jpg&quot; alt=&quot;other side&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2208.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2208.jpg&quot; alt=&quot;big view single&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/double-rainbow</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/double-rainbow</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>nature</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>More Crazy Clouds</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;../uploads/ZOE_0023-1DE6AC64-26344298.mp4&quot; frameborder=&quot;0&quot;&gt;Rainstorm in NM&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/IMAG2082-PANO.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2082-PANO.jpg&quot; alt=&quot;Camera focused on the trees :(&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2022.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2022.jpg&quot; alt=&quot;fake...&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG1780.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1780.jpg&quot; alt=&quot;sunset&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/more-crazy-clouds</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/more-crazy-clouds</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>clouds</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Crazy Clouds</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../uploads/IMAG2069.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2069.jpg&quot; alt=&quot;get lost in a sea of clouds&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2047.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2047.jpg&quot; alt=&quot;blue above&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2005.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2005.jpg&quot; alt=&quot;big&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/crazy-clouds</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/crazy-clouds</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>clouds</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Black Widow in a Tomato</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../uploads/IMAG2185.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2185.jpg&quot; alt=&quot;hiding in the crevice&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG2184.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG2184.jpg&quot; alt=&quot;big red mato, big black widow&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 24 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/black-widow-in-a-tomato</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/black-widow-in-a-tomato</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>farm</category>
+        
+        <category>spiders</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mantis in the Onions</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;../uploads/ZOE_0021-056714E0-42039860.mp4&quot; frameborder=&quot;0&quot;&gt;Mantis in some green onions&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/IMAG1635.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1635.jpg&quot; alt=&quot;baby mantis&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG1637.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1637.jpg&quot; alt=&quot;zoomed mantis&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 21 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/mantis-in-the-onions</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/mantis-in-the-onions</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>farm</category>
+        
+        <category>insects</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Road trip to Alamogordo</title>
+        <description>&lt;p&gt;Took a trip to Alamogordo with a friend who wanted to buy some heirloom rabbits. Here are some of the good photos from my bunny adventure.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/P6022922_wb_edit.jpg&quot;&gt;&lt;img src=&quot;../uploads/P6022922_wb_edit.jpg&quot; alt=&quot;trucks&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/P6022919_wb_edit.jpg&quot;&gt;&lt;img src=&quot;../uploads/P6022919_wb_edit.jpg&quot; alt=&quot;windmill with riders&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/P6022895.jpg&quot;&gt;&lt;img src=&quot;../uploads/P6022895.jpg&quot; alt=&quot;horses&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/roadtrip-to-alamogordo</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/roadtrip-to-alamogordo</guid>
+        
+        <category>travel</category>
+        
+        <category>newmexico</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Railyards</title>
+        <description>&lt;p&gt;The floors were made of wooden bricks in order to prevent sparks from dropped tools which could lead to explosions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/IMAG1344.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1344.jpg&quot; alt=&quot;ABQ Railyards, check out the wooden bricks&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 07 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/railyards</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/railyards</guid>
+        
+        <category>albuquerque</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Little Fluffy Clouds...</title>
+        <description>&lt;p&gt;One from my phone, a few from my camera before the battery died. I wish I had more time to get better photos, but it was early (around 6:20 am) and we were getting ready for market.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;../uploads/IMAG1494.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1494.jpg&quot; alt=&quot;looks fake, but isn't&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/P5312864_0.jpg&quot;&gt;&lt;img src=&quot;../uploads/P5312864_0.jpg&quot; alt=&quot;another angle&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/P5312867_0.jpg&quot;&gt;&lt;img src=&quot;../uploads/P5312867_0.jpg&quot; alt=&quot;zoooomed&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Jun 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/little-fluffy-clouds</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/little-fluffy-clouds</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>farm</category>
+        
+        <category>weather</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Spiders</title>
+        <description>&lt;p&gt;&lt;a href=&quot;../uploads/IMAG1231.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1231.jpg&quot; alt=&quot;hunter spider&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG1325_1.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1325_1.jpg&quot; alt=&quot;spider with an egg sack&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;../uploads/IMAG1333.jpg&quot;&gt;&lt;img src=&quot;../uploads/IMAG1333.jpg&quot; alt=&quot;spider carrying an egg sack&quot; class=&quot;lead&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 May 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/posts/spiders</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/spiders</guid>
+        
+        <category>albuquerque</category>
+        
+        <category>farm</category>
+        
+        <category>spiders</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
