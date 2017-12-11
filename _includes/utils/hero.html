@@ -38,10 +38,10 @@ It also needs both :before and :after pseudoclasses to work, that's the only way
 
 
 <style>
-  .{{ post.url | remove: '/posts/' }} {
+  .{{ post.url | remove: '/posts/' | remove: '.html' }} {
     margin-bottom: 2em;
   }
-  .{{ post.url | remove: '/posts/' }}::before {
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}::before {
     background-image: url('{{ hero }}');
     background-size: cover;
     -webkit-filter: grayscale(1) brightness(0.5) contrast(0.5);
@@ -53,7 +53,7 @@ It also needs both :before and :after pseudoclasses to work, that's the only way
     top: 0;
     z-index: -2;
   }
-  .{{ post.url | remove: '/posts/' }}::after {
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}::after {
     content:'';
     position:absolute;
     width: 100%;
@@ -69,22 +69,22 @@ It also needs both :before and :after pseudoclasses to work, that's the only way
     z-index: -1;
   }
 
-  .{{ post.url | remove: '/posts/' }}-container,
-  .{{ post.url | remove: '/posts/' }}-container::before,
-  .{{ post.url | remove: '/posts/' }}-container::after {
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-container,
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-container::before,
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-container::after {
     height: 25rem;
   }
 
-  .{{ post.url | remove: '/posts/' }}-bleed-container,
-  .{{ post.url | remove: '/posts/' }}-bleed-container::before,
-  .{{ post.url | remove: '/posts/' }}-bleed-container::after {
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-bleed-container,
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-bleed-container::before,
+  .{{ post.url | remove: '/posts/' | remove: '.html' }}-bleed-container::after {
     height: 35rem;
   }
 
     @media (max-width: 48rem) {
-        .{{ post.url | remove: '/posts/' }}-container,
-        .{{ post.url | remove: '/posts/' }}-container::before,
-        .{{ post.url | remove: '/posts/' }}-container::after{
+        .{{ post.url | remove: '/posts/' | remove: '.html' }}-container,
+        .{{ post.url | remove: '/posts/' | remove: '.html' }}-container::before,
+        .{{ post.url | remove: '/posts/' | remove: '.html' }}-container::after{
             height: 20rem;
             margin-bottom: 3rem;
         }

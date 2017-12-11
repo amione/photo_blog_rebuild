@@ -12,7 +12,7 @@
   {% if site.blog.hero_layout == true %}
     post-title-container
       {% if post.hero %}
-        {{ post.url | remove: '/posts/' }} {{ post.url | remove: '/posts/' }}-container hero-hov
+        {{ post.url | remove: '/posts/' | remove: '.html' }} {{ post.url | remove: '/posts/' | remove: '.html'  }}-container hero-hov
       {% endif %}
     {% else %}
     post-title-container-nohero

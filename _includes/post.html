@@ -9,7 +9,7 @@
   <!-- Post title (& hero image) container -->
   <div class="post-title-container
   {% if site.blog.hero_layout == true %}
-  {{ post.url | remove: '/posts/' }} {{ post.url | remove: '/posts/' }}-bleed-container bleed-hero-container
+  {{ post.url | remove: '/posts/' | remove: '.html' }} {{ post.url | remove: '/posts/' | remove: '.html' }}-bleed-container bleed-hero-container
     {% else %}
   no-hero-margin
   {% endif %}">
