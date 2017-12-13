@@ -4,6 +4,7 @@ title:  "Sunset on Longfellow Bridge"
 tags:
   - boston
   - newcamera
+  - sunset
 hero: ../uploads/P8210263.jpg
 overlay: orange
 published: true

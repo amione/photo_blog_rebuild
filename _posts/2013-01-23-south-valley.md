@@ -4,7 +4,7 @@ title:  "South Valley"
 tags:
   - albuquerque
 hero: ../uploads/PC28232221.jpg
-overlay: red
+overlay: orange
 published: true
 
 ---

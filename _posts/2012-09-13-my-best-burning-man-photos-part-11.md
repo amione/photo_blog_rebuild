@@ -5,6 +5,7 @@ tags:
   - burningman
   - nevada
   - blackrockcity
+  - sunset
 hero: ../uploads/P9011767.jpg
 overlay: orange
 published: true

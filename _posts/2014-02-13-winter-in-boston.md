@@ -2,8 +2,10 @@
 layout: post
 title:  "Winter in Boston"
 tags:
-  - albuquerque
-  - travel
+  - boston
+  - mbta
+  - weather
+  - snow
 hero: ../uploads/IMAG1006.jpg
 overlay: orange
 published: true
