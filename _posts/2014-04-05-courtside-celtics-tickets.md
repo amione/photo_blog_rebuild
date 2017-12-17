@@ -10,4 +10,4 @@ published: true
 
 ---
 
-[![my shadow](../uploads/IMAG1046.jpg){:.lead}](../uploads/IMAG1046.jpg)
+[![Courtside for the Celts](../uploads/IMAG1046.jpg){:.lead}](../uploads/IMAG1046.jpg)
