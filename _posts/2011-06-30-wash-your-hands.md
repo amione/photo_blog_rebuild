@@ -6,7 +6,7 @@ tags:
   - signs
   - funny
 hero: ../uploads/SNC00130.jpg
-overlay: purple
+overlay: red
 published: true
 
 ---

@@ -7,7 +7,7 @@ tags:
   - signs
   - funny
 hero: ../uploads/P101238024.jpg
-overlay: red
+overlay: orange
 published: true
 
 ---

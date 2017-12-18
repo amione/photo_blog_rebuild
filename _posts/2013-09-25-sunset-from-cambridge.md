@@ -5,7 +5,7 @@ tags:
   - boston
   - sunset
 hero: ../uploads/IMAG0690.jpg
-overlay: red
+overlay: blue
 published: true
 
 ---

@@ -5,7 +5,7 @@ tags:
   - snow
   - winter
 hero: ../uploads/SNC00545.jpg
-overlay: purple
+overlay: blue
 published: true
 
 ---

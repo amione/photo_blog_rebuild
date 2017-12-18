@@ -5,7 +5,7 @@ tags:
   - boston
   - animals
 hero: ../uploads/IMAG0709.jpg
-overlay: purple
+overlay: green
 published: true
 
 ---

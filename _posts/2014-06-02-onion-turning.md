@@ -6,7 +6,7 @@ tags:
   - signs
   - funny
 hero: ../uploads/IMAG1512.jpg
-overlay: orange
+overlay: red
 published: true
 
 ---

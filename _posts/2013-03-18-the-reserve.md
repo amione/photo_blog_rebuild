@@ -4,7 +4,7 @@ title:  "Party at the CIC"
 tags:
   - boston
 hero: ../uploads/IMAG0418.jpg
-overlay: red
+overlay: purple
 published: true
 
 ---

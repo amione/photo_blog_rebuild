@@ -4,7 +4,7 @@ title:  "Modded OG Xbox"
 tags:
   - boston
 hero: ../uploads/IMAG1083.jpg
-overlay: blue
+overlay: red
 published: true
 
 ---

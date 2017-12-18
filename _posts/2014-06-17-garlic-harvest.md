@@ -5,7 +5,7 @@ tags:
   - albuquerque
   - farm
 hero: ../uploads/IMAG1587.jpg
-overlay: orange
+overlay: green
 published: true
 
 ---

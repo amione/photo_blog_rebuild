@@ -4,7 +4,7 @@ title:  "NKOTB at Boston Strong Benefit Concert"
 tags:
   - boston
 hero: ../uploads/IMAG0534.jpg
-overlay: red
+overlay: green
 published: true
 
 ---

@@ -6,7 +6,7 @@ tags:
   - farm
   - sunset
 hero: ../uploads/IMAG1435.jpg
-overlay: blue
+overlay: red
 published: true
 
 ---

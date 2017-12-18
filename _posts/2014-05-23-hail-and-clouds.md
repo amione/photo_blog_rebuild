@@ -5,6 +5,7 @@ tags:
   - albuquerque
   - farm
   - clouds
+  - weather
 hero: ../uploads/IMAG1468-PANO.jpg
 overlay: blue
 published: true

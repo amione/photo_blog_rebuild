@@ -5,7 +5,7 @@ tags:
   - brooklyn
   - newyork
 hero: ../uploads/IMAG0649.jpg
-overlay: red
+overlay: orange
 published: true
 
 ---

@@ -6,7 +6,7 @@ tags:
   - vandalism
   - graffiti
 hero: ../uploads/SNC00654.jpg
-overlay: blue
+overlay: red
 published: true
 
 ---

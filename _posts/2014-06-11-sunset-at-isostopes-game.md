@@ -5,7 +5,7 @@ tags:
   - albuquerque
   - sunset
 hero: ../uploads/IMAG1565.jpg
-overlay: orange
+overlay: purple
 published: true
 
 ---
