@@ -4,7 +4,7 @@ title:  "Blurry Rose"
 tags:
   - albuquerque
 hero: ../uploads/IMAG1401.jpg
-overlay: blue
+overlay: orange
 published: true
 
 ---

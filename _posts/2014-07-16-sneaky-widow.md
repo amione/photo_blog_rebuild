@@ -7,7 +7,7 @@ tags:
   - spiders
   - insects	
 hero: ../uploads/IMAG1809.jpg
-overlay: orange
+overlay: purple
 published: true
 
 ---

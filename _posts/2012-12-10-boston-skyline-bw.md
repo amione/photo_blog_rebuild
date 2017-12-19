@@ -4,7 +4,7 @@ title:  "Boston Skyline"
 tags:
   - boston
 hero: ../uploads/IMAG0038_1.jpg
-overlay: yellow
+overlay: purple
 published: true
 
 ---

@@ -5,7 +5,7 @@ tags:
   - travel
   - albuquerque
 hero: ../uploads/SNC00769.jpg
-overlay: purple
+overlay: orange
 published: true
 
 ---

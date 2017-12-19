@@ -6,7 +6,7 @@ tags:
   - california
   - nature
 hero: ../uploads/P9031936-PANO.jpg
-overlay: orange
+overlay: purple
 published: true
 
 ---

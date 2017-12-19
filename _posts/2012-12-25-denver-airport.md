@@ -5,7 +5,7 @@ tags:
   - travel
   - signs
 hero: ../uploads/IMAG0110.jpg
-overlay: purple
+overlay: green
 published: true
 
 ---

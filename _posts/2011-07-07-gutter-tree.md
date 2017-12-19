@@ -5,7 +5,7 @@ tags:
   - funny
   - ashland
 hero: ../uploads/SNC00080.jpg
-overlay: orange
+overlay: red
 published: true
 
 ---

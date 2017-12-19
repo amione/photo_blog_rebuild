@@ -4,7 +4,7 @@ title:  "Who neglected to turn off their cellular phone?"
 tags:
   - travel
 hero: ../uploads/SNC00233.jpg
-overlay: green
+overlay: orange
 published: true
 
 ---
