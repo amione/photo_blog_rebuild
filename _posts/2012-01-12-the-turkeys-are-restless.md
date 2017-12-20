@@ -5,7 +5,7 @@ tags:
   - boston
   - animals
 hero: ../uploads/SNC00757.jpg
-overlay: orange
+overlay: red
 published: true
 
 ---
