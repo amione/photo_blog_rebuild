@@ -5,7 +5,7 @@ tags:
   - newjersey
   - signs
   - funny
-hero: ../uploads/SNC00492.jpg
+hero: ../uploads/SNC00492_resize.jpg
 overlay: red
 published: true
 
@@ -13,4 +13,4 @@ published: true
 
 There were no rugs in this Summit, NJ storefront.
 
-[![I don't see any rugs](../uploads/SNC00492.jpg){:.lead}](../uploads/SNC00492.jpg)
+[![I don't see any rugs](../uploads/SNC00492_resize.jpg){:.lead}](../uploads/SNC00492.jpg)

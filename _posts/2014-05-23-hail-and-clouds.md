@@ -6,7 +6,7 @@ tags:
   - farm
   - clouds
   - weather
-hero: ../uploads/IMAG1468-PANO.jpg
+hero: ../uploads/IMAG1468-PANO_resize.jpg
 overlay: blue
 published: true
 
@@ -16,7 +16,7 @@ published: true
 
 Crazy clouds and hail in Albuquerque.
 
-[![crazy clouds](../uploads/IMAG1468-PANO.jpg){:.lead}](../uploads/IMAG1468-PANO.jpg)
+[![crazy clouds](../uploads/IMAG1468-PANO_resize.jpg){:.lead}](../uploads/IMAG1468-PANO.jpg)
 
 
 

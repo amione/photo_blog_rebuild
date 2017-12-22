@@ -6,7 +6,7 @@ tags:
   - travel
   - signs
   - funny
-hero: ../uploads/P101238024.jpg
+hero: ../uploads/P101238024_resize.jpg
 overlay: orange
 published: true
 
@@ -14,4 +14,4 @@ published: true
 
 Playing with focus and color.
 
-[![just over there](../uploads/P101238024.jpg){:.lead}](../uploads/P101238024.jpg)
+[![just over there](../uploads/P101238024_resize.jpg){:.lead}](../uploads/P101238024.jpg)

@@ -4,7 +4,7 @@ title:  "Snow Mountain"
 tags:
   - snow
   - winter
-hero: ../uploads/SNC00545.jpg
+hero: ../uploads/SNC00545_resize.jpg
 overlay: blue
 published: true
 
@@ -12,4 +12,4 @@ published: true
 
 When the winter is bad, these giant snow piles will often last to June in Massachusetts.
 
-[![Giant snow pile](../uploads/SNC00545.jpg){:.lead}](../uploads/SNC00545.jpg)
+[![Giant snow pile](../uploads/SNC00545_resize.jpg){:.lead}](../uploads/SNC00545.jpg)

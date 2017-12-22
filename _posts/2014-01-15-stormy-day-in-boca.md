@@ -6,7 +6,7 @@ tags:
   - travel
   - weather
   - ocean
-hero: ../uploads/IMAG0842.jpg
+hero: ../uploads/IMAG0842_resize.jpg
 overlay: green
 published: true
 
@@ -16,6 +16,6 @@ published: true
 
 In Boca Raton (Rat's Mouth, Florida) for work. Beautiful, but the sun didn't want to shine.
 
-[![stormy weather](../uploads/IMAG0842.jpg){:.lead}](../uploads/IMAG0842.jpg)
-[![the other side](../uploads/IMAG0844.jpg){:.lead}](../uploads/IMAG0844.jpg)
-[![another view](../uploads/IMAG0848.jpg){:.lead}](../uploads/IMAG0848.jpg)
+[![stormy weather](../uploads/IMAG0842_resize.jpg){:.lead}](../uploads/IMAG0842.jpg)
+[![the other side](../uploads/IMAG0844_resize.jpg){:.lead}](../uploads/IMAG0844.jpg)
+[![another view](../uploads/IMAG0848_resize.jpg){:.lead}](../uploads/IMAG0848.jpg)

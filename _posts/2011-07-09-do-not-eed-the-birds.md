@@ -6,7 +6,7 @@ tags:
   - funny
   - signs
   - brooklyn
-hero: ../uploads/SNC00133.jpg
+hero: ../uploads/SNC00133_resize.jpg
 overlay: purple
 published: true
 
@@ -14,4 +14,4 @@ published: true
 
 Sign in Leif Ericson Park in Brooklyn.
 
-[![spelling](../uploads/SNC00133.jpg){:.lead}](../uploads/SNC00133.jpg)
+[![spelling](../uploads/SNC00133_resize.jpg){:.lead}](../uploads/SNC00133.jpg)

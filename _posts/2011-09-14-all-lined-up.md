@@ -3,7 +3,7 @@ layout: post
 title:  "Boylston buildings all lined up"
 tags:
   - boston
-hero: ../uploads/SNC00328.jpg
+hero: ../uploads/SNC00328_resize.jpg
 overlay: blue
 published: true
 
@@ -11,4 +11,4 @@ published: true
 
 Boston skyline looking down Boylston street.
 
-[![skyline](../uploads/SNC00328.jpg){:.lead}](../uploads/SNC00328.jpg)
+[![skyline](../uploads/SNC00328_resize.jpg){:.lead}](../uploads/SNC00328.jpg)

@@ -5,7 +5,7 @@ tags:
   - snow
   - albuquerque
   - farm
-hero: ../uploads/screenshot_VIDEO0085.jpg
+hero: ../uploads/screenshot_VIDEO0085_resize.jpg
 overlay: purple
 published: true
 

@@ -4,7 +4,7 @@ title:  "Umbrella mass grave..."
 tags:
   - boston
   - weather
-hero: ../uploads/SNC00760.jpg
+hero: ../uploads/SNC00760_resize.jpg
 overlay: purple
 published: true
 
@@ -20,4 +20,4 @@ Here's an excerpt from one of many sites that can back up this claim:
 >
 >Boston and Chicago are two of thirteen large US cities with year-round winds averaging above 10 mph."
 
-[![umbrella grave](../uploads/SNC00760.jpg){:.lead}](../uploads/SNC00760.jpg)
+[![umbrella grave](../uploads/SNC00760_resize.jpg){:.lead}](../uploads/SNC00760.jpg)

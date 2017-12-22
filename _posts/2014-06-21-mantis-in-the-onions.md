@@ -5,7 +5,7 @@ tags:
   - albuquerque
   - farm
   - insects
-hero: ../uploads/IMAG1635.jpg
+hero: ../uploads/IMAG1635_resize.jpg
 overlay: blue
 published: true
 
@@ -13,5 +13,5 @@ published: true
 
 <iframe width="560" height="315" src="../uploads/ZOE_0021-056714E0-42039860.mp4" frameborder="0">Mantis in some green onions</iframe>
 
-[![baby mantis](../uploads/IMAG1635.jpg){:.lead}](../uploads/IMAG1635.jpg)
-[![zoomed mantis](../uploads/IMAG1637.jpg){:.lead}](../uploads/IMAG1637.jpg)
+[![baby mantis](../uploads/IMAG1635_resize.jpg){:.lead}](../uploads/IMAG1635.jpg)
+[![zoomed mantis](../uploads/IMAG1637_resize.jpg){:.lead}](../uploads/IMAG1637.jpg)

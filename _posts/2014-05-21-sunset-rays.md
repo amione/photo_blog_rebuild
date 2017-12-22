@@ -5,10 +5,10 @@ tags:
   - albuquerque
   - farm
   - sunset
-hero: ../uploads/IMAG1435.jpg
+hero: ../uploads/IMAG1435_resize.jpg
 overlay: red
 published: true
 
 ---
 
-[![sunset rays](../uploads/IMAG1435.jpg){:.lead}](../uploads/IMAG1435.jpg)
+[![sunset rays](../uploads/IMAG1435_resize.jpg){:.lead}](../uploads/IMAG1435.jpg)

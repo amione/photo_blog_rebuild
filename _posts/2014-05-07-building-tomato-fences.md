@@ -4,10 +4,10 @@ title:  "Building Tomato Fences"
 tags:
   - albuquerque
   - farm
-hero: ../uploads/IMAG1290.jpg
+hero: ../uploads/IMAG1290_resize.jpg
 overlay: green
 published: true
 
 ---
 
-[![glowing](../uploads/IMAG1290.jpg){:.lead}](../uploads/IMAG1290.jpg)
+[![glowing](../uploads/IMAG1290_resize.jpg){:.lead}](../uploads/IMAG1290.jpg)

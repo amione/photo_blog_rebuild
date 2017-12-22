@@ -5,12 +5,12 @@ tags:
   - albuquerque
   - travel
   - farm
-hero: ../uploads/P3072790.jpg
+hero: ../uploads/P3072790_resize.jpg
 overlay: blue
 published: true
 
 ---
 
-[![So sleepy...](../uploads/P3072790.jpg){:.lead}](../uploads/P3072790.jpg)
-[![Other side of the bed](../uploads/P4302842.jpg){:.lead}](../uploads/P4302842.jpg)
+[![So sleepy...](../uploads/P3072790_resize.jpg){:.lead}](../uploads/P3072790.jpg)
+[![Other side of the bed](../uploads/P4302842_resize.jpg){:.lead}](../uploads/P4302842.jpg)
 [![Can't get comfortable.](../uploads/P4302842-ANIMATION.gif){:.lead}](../uploads/P4302842-ANIMATION.gif)

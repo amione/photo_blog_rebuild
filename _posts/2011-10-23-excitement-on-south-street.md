@@ -3,7 +3,7 @@ layout: post
 title:  "Emergency"
 tags:
   - boston
-hero: ../uploads/SNC00007.jpg
+hero: ../uploads/SNC00007_resize.jpg
 overlay: red
 published: true
 
@@ -11,4 +11,4 @@ published: true
 
 Came back from lunch this day to see the street my office was on was experiencing some sort of calamity. Never found out what. It was one street over from South Station, so I can understand the police being extra cautious. 
 
-[![uh oh](../uploads/SNC00007.jpg){:.lead}](../uploads/SNC00007.jpg)
+[![uh oh](../uploads/SNC00007_resize.jpg){:.lead}](../uploads/SNC00007.jpg)
