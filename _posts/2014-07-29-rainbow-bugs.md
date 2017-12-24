@@ -7,12 +7,12 @@ tags:
   - insects
   - spiders
 hero: ../uploads/IMAG1858-MOTION.gif
-overlay: red
+overlay: green
 published: true
 
 ---
 
-[![crazy yellow spider](../uploads/IMAG1870_resize.jpg){:.lead}](../uploads/IMAG1870.jpg)
+[![crazy yellow spider](../uploads/IMAG1870_optimized.jpg){:.lead}](../uploads/IMAG1870.jpg)
 [![crazy yellow spider in motion](../uploads/IMAG1858-MOTION.gif){:.lead}](../uploads/IMAG1858-MOTION.gif)
-[![steel blue cricket hunter wasp](../uploads/IMAG1978_resize.jpg){:.lead}](../uploads/IMAG1978.jpg)
+[![steel blue cricket hunter wasp](../uploads/IMAG1978_optimized.jpg){:.lead}](../uploads/IMAG1978.jpg)
 

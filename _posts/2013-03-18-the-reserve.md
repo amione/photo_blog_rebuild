@@ -3,12 +3,12 @@ layout: post
 title:  "Party at the CIC"
 tags:
   - boston
-hero: ../uploads/IMAG0418_resize.jpg
-overlay: purple
+hero: ../uploads/IMAG0418_optimized.jpg
+overlay: green
 published: true
 
 ---
 
 Leaving work at 7:30pm on a Monday and it looked like someone was getting ready to have a good time. Don't think any meetups were happening in the building that night.
 
-[![the reserve](../uploads/IMAG0418_resize.jpg){:.lead}](../uploads/IMAG0418.jpg)
+[![the reserve](../uploads/IMAG0418_optimized.jpg){:.lead}](../uploads/IMAG0418.jpg)

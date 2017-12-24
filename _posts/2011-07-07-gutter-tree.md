@@ -4,7 +4,7 @@ title:  "I think someone should clean the gutters."
 tags:
   - funny
   - ashland
-hero: ../uploads/SNC00080_resize.jpg
+hero: ../uploads/SNC00080_optimized.jpg
 overlay: orange
 published: true
 
@@ -12,4 +12,4 @@ published: true
 
 Tree growing out of the gutter.
 
-[![spelling](../uploads/SNC00080_resize.jpg){:.lead}](../uploads/SNC00080.jpg)
+[![spelling](../uploads/SNC00080_optimized.jpg){:.lead}](../uploads/SNC00080.jpg)

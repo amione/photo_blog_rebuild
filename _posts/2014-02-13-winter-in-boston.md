@@ -6,10 +6,10 @@ tags:
   - mbta
   - weather
   - snow
-hero: ../uploads/IMAG1006_resize.jpg
-overlay: orange
+hero: ../uploads/IMAG1006_optimized.jpg
+overlay: red
 published: true
 
 ---
 
-[![snow on the C Line](../uploads/IMAG1006_resize.jpg){:.lead}](../uploads/IMAG1006.jpg)
+[![snow on the C Line](../uploads/IMAG1006_optimized.jpg){:.lead}](../uploads/IMAG1006.jpg)

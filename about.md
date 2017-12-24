@@ -11,8 +11,8 @@ published: true
 <img
     class="me"
     alt="Andrew Mione"
-    src="../uploads/me.jpg"
-    srcset="../uploads/me.jpg 2x"
+    src="../uploads/me_optimized.jpg"
+    srcset="../uploads/me_optimized.jpg 2x"
 />
 {% endcapture %}
 

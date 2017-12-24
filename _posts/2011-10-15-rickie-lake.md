@@ -5,14 +5,14 @@ tags:
   - boston
   - mbta
   - vandalism
-hero: ../uploads/SNC00081_resize.jpg
-overlay: green
+hero: ../uploads/SNC00081_optimized.jpg
+overlay: blue
 published: true
 
 ---
 
 Here's Rickie Lake for comparison.
 
-![real Rickie Lake](../uploads/ricki-lake-1993-tv-04-g_resize.jpg){: height="300px"}
+![real Rickie Lake](../uploads/ricki-lake-1993-tv-04-g_optimized.jpg){: height="300px"}
 
-[![written on her forehead](../uploads/SNC00081_resize.jpg){:.lead}](../uploads/SNC00081.jpg)
+[![written on her forehead](../uploads/SNC00081_optimized.jpg){:.lead}](../uploads/SNC00081.jpg)

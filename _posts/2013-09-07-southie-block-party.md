@@ -4,7 +4,7 @@ title:  "Block Party Pig Roast in Southie"
 tags:
   - boston
 hero: ../uploads/IMAG0668-MOTION.gif
-overlay: red
+overlay: blue
 published: true
 
 ---

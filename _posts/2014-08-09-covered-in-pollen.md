@@ -5,13 +5,13 @@ tags:
   - albuquerque
   - farm
   - food
-hero: ../uploads/IMAG2055_resize.jpg
-overlay: green
+hero: ../uploads/IMAG2055_optimized.jpg
+overlay: orange
 published: true
 
 ---
 
 Every. Day.
 
-[![back](../uploads/IMAG2055_resize.jpg){:.lead}](../uploads/IMAG2055.jpg)
-[![front](../uploads/IMAG2059_resize.jpg){:.lead}](../uploads/IMAG2059.jpg)
+[![back](../uploads/IMAG2055_optimized.jpg){:.lead}](../uploads/IMAG2055.jpg)
+[![front](../uploads/IMAG2059_optimized.jpg){:.lead}](../uploads/IMAG2059.jpg)

@@ -6,8 +6,8 @@ tags:
   - travel
   - weather
   - ocean
-hero: ../uploads/IMAG0947_resize.jpg
-overlay: orange
+hero: ../uploads/IMAG0947_optimized.jpg
+overlay: blue
 published: true
 
 ---
@@ -16,6 +16,6 @@ published: true
 
 The sun finally came out.
 
-[![fishing pier near my hotel](../uploads/IMAG0947_resize.jpg){:.lead}](../uploads/IMAG0947.jpg)
-[![palms rustling](../uploads/IMAG0948_resize.jpg){:.lead}](../uploads/IMAG0948.jpg)
-[![sun](../uploads/IMAG0949_resize.jpg){:.lead}](../uploads/IMAG0949.jpg)
+[![fishing pier near my hotel](../uploads/IMAG0947_optimized.jpg){:.lead}](../uploads/IMAG0947.jpg)
+[![palms rustling](../uploads/IMAG0948_optimized.jpg){:.lead}](../uploads/IMAG0948.jpg)
+[![sun](../uploads/IMAG0949_optimized.jpg){:.lead}](../uploads/IMAG0949.jpg)

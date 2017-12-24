@@ -4,12 +4,12 @@ title:  "Running Lines"
 tags:
   - albuquerque
   - farm
-hero: ../uploads/IMAG1444_resize.jpg
-overlay: orange
+hero: ../uploads/IMAG1444_optimized.jpg
+overlay: purple
 published: true
 
 ---
 
 Running new lines for watering the plants.
 
-[![running lines](../uploads/IMAG1444_resize.jpg){:.lead}](../uploads/IMAG1444.jpg)
+[![running lines](../uploads/IMAG1444_optimized.jpg){:.lead}](../uploads/IMAG1444.jpg)

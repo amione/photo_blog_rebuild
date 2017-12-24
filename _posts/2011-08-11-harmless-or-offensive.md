@@ -6,8 +6,8 @@ tags:
   - boston
   - advertising
   - psa
-hero: ../uploads/SNC00489_resize.jpg
-overlay: green
+hero: ../uploads/SNC00489_optimized.jpg
+overlay: blue
 published: true
 
 ---
@@ -18,5 +18,5 @@ What struck me about the poster was that it makes a lot of assumptions. The post
 
 I think this poster is kind of offensive.
 
-[![offensive psa?](../uploads/SNC00489_resize.jpg){:.lead}](../uploads/SNC00489.jpg)
+[![offensive psa?](../uploads/SNC00489_optimized.jpg){:.lead}](../uploads/SNC00489.jpg)
 

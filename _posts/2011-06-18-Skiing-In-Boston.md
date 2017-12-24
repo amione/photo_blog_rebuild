@@ -6,12 +6,12 @@ tags:
   - snow
   - winter
   - funny
-hero: ../uploads/SNC00481_resize.jpg
-overlay: blue
+hero: ../uploads/SNC00481_optimized.jpg
+overlay: green
 published: true
 
 ---
 
 This guy was skiing in the street right outside South Station in Boston
 
-[![blizzard](../uploads/SNC00481_resize.jpg){:.lead}](../uploads/SNC00481.jpg)
+[![blizzard](../uploads/SNC00481_optimized.jpg){:.lead}](../uploads/SNC00481.jpg)

@@ -5,7 +5,7 @@ tags:
   - boston
   - advertising
   - vandalism
-hero: ../uploads/SNC00352_resize.jpg
+hero: ../uploads/SNC00352_optimized.jpg
 overlay: orange
 published: true
 
@@ -15,4 +15,4 @@ I had never noticed this quote written on a wall near the Boylston T Stop before
 
 Update: It's definitely not chalk. It seems like it was painted on maybe. Definitely an advertisement. It's too upbeat a message for some art student to have written.
 
-[![great ad placement](../uploads/SNC00352_resize.jpg){:.lead}](../uploads/SNC00352.jpg)
+[![great ad placement](../uploads/SNC00352_optimized.jpg){:.lead}](../uploads/SNC00352.jpg)

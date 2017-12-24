@@ -5,12 +5,12 @@ tags:
   - travel
   - brooklyn
   - food
-hero: ../uploads/SNC00219_resize.jpg
-overlay: blue
+hero: ../uploads/SNC00219_optimized.jpg
+overlay: green
 published: true
 
 ---
 
 Best fruit store in Brooklyn.
 
-[![3 guys](../uploads/SNC00219_resize.jpg){:.lead}](../uploads/SNC00219.jpg)
+[![3 guys](../uploads/SNC00219_optimized.jpg){:.lead}](../uploads/SNC00219.jpg)

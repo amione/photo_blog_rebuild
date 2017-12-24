@@ -4,12 +4,12 @@ title:  "Homemade Chili Flakes"
 tags:
   - boston
   - food
-hero: ../uploads/IMAG1008_resize.jpg
-overlay: red
+hero: ../uploads/IMAG1008_optimized.jpg
+overlay: orange
 published: true
 
 ---
 
 Spicy!
 
-[![selling metal at the scrap yard](../uploads/IMAG1008_resize.jpg){:.lead}](../uploads/IMAG1008.jpg)
+[![selling metal at the scrap yard](../uploads/IMAG1008_optimized.jpg){:.lead}](../uploads/IMAG1008.jpg)
