@@ -11,7 +11,8 @@ blog:
 
 # Layout configuration
   logo_path                  : "assets/img/pill_solo.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  search_path                : "mione.org"
+                               # "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
