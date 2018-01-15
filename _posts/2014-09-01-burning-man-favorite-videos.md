@@ -15,6 +15,8 @@ While at Burning Man this time I tried to take more video and shoot more at nigh
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMidsEuGKo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>pan of the esplanade</iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DjJGXmrYzBE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>pan of playa daytime</iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aRxFhjOl6pE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>Folks dancing at Tango'd up in Blue</iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vM3fSMZB8kk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>Tango'd up in Blue from afar</iframe>
@@ -52,6 +54,10 @@ While at Burning Man this time I tried to take more video and shoot more at nigh
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YBitTP1jRPo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>piano driving away</iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RO18sblrXuI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>take a nap</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzcqJtvOgu0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>skydivers</iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2erB9R6FKQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>gong spinning</iframe>
 
 And finally, here are my videos from the man burn. It might be a little choppy because with my camera the video will pause and then resume when I take a still photo. This man burned forever, about 70+ minutes by my estimate.
 
