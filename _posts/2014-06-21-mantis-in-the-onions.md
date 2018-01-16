@@ -11,7 +11,10 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/ZOE_0021-056714E0-42039860.mp4" frameborder="0">Mantis in some green onions</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/ZOE_0021-056714E0-42039860.mp4"  type="video/mp4">
+		Mantis in some green onions
+</video>
 
 [![baby mantis](../uploads/IMAG1635_optimized.jpg){:.lead}](../uploads/IMAG1635.jpg)
 [![zoomed mantis](../uploads/IMAG1637_optimized.jpg){:.lead}](../uploads/IMAG1637.jpg)

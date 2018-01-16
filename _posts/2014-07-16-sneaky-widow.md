@@ -19,4 +19,7 @@ This widow was hiding in some shallots and crawled right over my ungloved hand. 
 [![widow3](../uploads/IMAG1811_optimized.jpg){:.lead}](../uploads/IMAG1811.jpg)
 
 
-<iframe width="560" height="315" src="../uploads/VIDEO0106.mp4" frameborder="0">under attack</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0106.mp4" type="video/mp4">
+	under attack
+</video>

@@ -12,7 +12,7 @@
 
 <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.blog.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
-<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: 'https://www.mione.org' }}">
 
 {% if page.title %} {% assign title = page.title ~ ' - ' ~ page.subtitle %} {% else %} {% assign title = site.blog.title %} {% endif %}
 {% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.blog.description %} {% endif %}
@@ -23,18 +23,18 @@
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{ title }}" />
 <meta name="twitter:description" content="{{ description }}" />
-<meta name="twitter:image" content="{{ site.url }}{{ cover }}" />
+<meta name="twitter:image" content="{{ 'https://www.mione.org' }}{{ cover }}" />
 
 <!-- Google plus -->
-<meta name="author" content="{{ site.author.googleplus }}">
-<link rel="author" href="{{ site.author.googleplus }}">
+<meta name="author" content="https://plus.google.com/+AndrewMione">
+<link rel="author" href="https://plus.google.com/+AndrewMione">
 
 <!-- Open Graph -->
 <meta property="og:locale" content="{{ site.lang }}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description }}">
-<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: 'https://www.mione.org' }}">
 <meta property="og:site_name" content="{{ site.blog.title }}">
 
 <!-- Styles -->

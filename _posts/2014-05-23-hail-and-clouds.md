@@ -12,7 +12,10 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/VIDEO0088.mp4" frameborder="0">Hail in NM</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0088.mp4" type="video/mp4">
+	Hail in NM
+</video>
 
 Crazy clouds and hail in Albuquerque.
 

@@ -12,7 +12,10 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/VIDEO0055.mp4" frameborder="0">The beach.</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0055.mp4" type="video/mp4">
+	The beach.
+</video>
 
 The sun finally came out.
 

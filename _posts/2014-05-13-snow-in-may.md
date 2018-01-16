@@ -11,6 +11,9 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/VIDEO0085.mp4" frameborder="0">Snow in May</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0085.mp4" type="video/mp4">
+	Snow in May
+</video>
 
 Snowing in May in Albuquerque.

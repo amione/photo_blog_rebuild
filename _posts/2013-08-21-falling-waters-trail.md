@@ -10,7 +10,10 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/VIDEO0031.mp4" frameborder="0">waterfall</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0031.mp4" type="video/mp4">
+	waterfall
+</video>
 
 This is from Falling Waters Trail in New Hampshire. I just did the Franconia Ridge Loop with some friends and took this video and these photos. I think these are probably the first photos I have posted from my new phone as well.
 

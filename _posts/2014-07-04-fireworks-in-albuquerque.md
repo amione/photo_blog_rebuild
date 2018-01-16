@@ -11,4 +11,7 @@ published: true
 
 [![View from outside the city](../uploads/IMAG1726-MOTION.gif){:.lead}](../uploads/IMAG1726-MOTION.gif)
 
-<iframe width="560" height="315" src="../uploads/VIDEO0095.mp4" frameborder="0">Fireworks from the road.</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0095.mp4" type="video/mp4">
+	Fireworks from the road.
+</video>

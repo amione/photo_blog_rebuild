@@ -12,7 +12,10 @@ published: true
 
 ---
 
-<iframe width="560" height="315" src="../uploads/VIDEO0054.mp4" frameborder="0">Ocean View - Boca Raton</iframe>
+<video width="560" height="315" controls> 
+	<source src="../uploads/VIDEO0054.mp4" type="video/mp4">
+	Ocean View - Boca Raton
+</video>
 
 In Boca Raton (Rat's Mouth, Florida) for work. Beautiful, but the sun didn't want to shine.
 
