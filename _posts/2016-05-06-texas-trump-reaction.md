@@ -7,7 +7,7 @@ tags:
   - funny
   - signs
 hero: ../uploads/20160505_111034_rotate_optimized.jpg
-overlay: orange
+overlay: red
 published: true
 
 ---
