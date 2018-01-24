@@ -6,4 +6,4 @@ sitemap:
 User-agent: *
 Disallow:
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://mione.org/sitemap.xml
