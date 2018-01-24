@@ -4,7 +4,7 @@ title:  "Bought a mirrorless camera, these are some test shots."
 tags:
   - boston
   - newcamera
-hero: ../uploads/P8130109_optimized.JPG
+hero: ../uploads/P8130109_optimized.jpg
 overlay: red
 published: true
 
